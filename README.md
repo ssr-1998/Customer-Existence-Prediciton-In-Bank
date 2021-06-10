@@ -5,6 +5,7 @@ EXIT(1) or NOT(0).
 
 In this Model I used XGBoost Algorithm for making Model. Data is divided into Train, Test & Validation Set.
 
+# Modeling
 XGBoost is tested in three ways here:
 
     XGBoost with Default Parameters
@@ -13,8 +14,8 @@ XGBoost is tested in three ways here:
     
     XGBoost with GridSearchCV for Hyper-Parameter Tunning
     
-
-METRICS USED TO COMPARE MODELS:
+# Metrics
+Following Metrics used to compare Models :
 
     Accuracy (in %)
     
